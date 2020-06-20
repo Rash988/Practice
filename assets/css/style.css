@@ -1,0 +1,59 @@
+
+ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+
+ul li a{
+	list-style: none;
+	padding-right: 8px;
+	text-decoration: none;
+}
+
+.navbar-nav{
+	margin-left: 460px !important;
+	font-weight: bold;
+}
+
+.active{
+	color: green !important;
+}
+
+.header{
+	display: inline-block !important;
+}
+
+
+.header ul li a{
+   color: white;
+}
+
+.first{
+	display: inline-block;
+	color: white;
+}
+
+.second{
+	display: inline-block;
+	float: right;
+}
+
+
+.second ul li a:first-child{
+	padding-right: 0px;
+}
+
+
+#overlay{
+  background-image: url(../images/overlay_green.png);
+  height: 100%;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  background-attachment: fixed;
+}
+
+.project h2{
+	
+}
